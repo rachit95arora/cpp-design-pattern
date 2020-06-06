@@ -1,2 +1,3 @@
 # cpp-design-pattern
-Toy implementations for various C++ design patterns
+
+Toy implementations for interesting C++ design patterns
